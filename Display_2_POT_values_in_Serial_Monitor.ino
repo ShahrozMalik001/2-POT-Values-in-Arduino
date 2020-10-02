@@ -1,5 +1,4 @@
-int sensorValue1;
-int sensorValue2;
+int sensorValue1, sensorValue2;
 void setup() {
   Serial.begin(9600);
 }
